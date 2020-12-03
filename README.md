@@ -14,6 +14,7 @@ using closer to base functions)
 | :--------- | :------------------ | --------------: | :---------------------------------------------------------------------- |
 | 2020-12-01 | Find Sum Components |               2 | [link](https://github.com/delabj/advent_of_code/blob/master/R/day_01.R) |
 | 2020-12-02 | Password Validation |               2 | [link](https://github.com/delabj/advent_of_code/blob/master/R/day_2.R)  |
+| 2020-12-03 | Sleds and Trees     |               2 | [link](https://github.com/delabj/advent_of_code/blob/master/R/day_03.R) |
 
 If you want to talk about the code feel free to open an issue of tag me
 on [twitter](http://www.twitter.com/delabjl).
