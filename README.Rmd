@@ -19,7 +19,8 @@ tribble(
   "2020-12-01", "Find Sum Components", 2 , "[link](https://github.com/delabj/advent_of_code/blob/master/R/day_01.R)", 
   "2020-12-02", "Password Validation", 2 , "[link](https://github.com/delabj/advent_of_code/blob/master/R/day_2.R)", 
   "2020-12-03", "Sleds and Trees"    , 2 , "[link](https://github.com/delabj/advent_of_code/blob/master/R/day_03.R)", 
-  "2020-12-04", "Sleds and Trees"    , 2 , "[link](https://github.com/delabj/advent_of_code/blob/master/R/day_04.R)" 
+  "2020-12-04", "Sleds and Trees"    , 2 , "[link](https://github.com/delabj/advent_of_code/blob/master/R/day_04.R)",
+  "2020-12-05", "Fly like paper ✈️"  , 2 , "[link](https://github.com/delabj/advent_of_code/blob/master/R/day_05.R)" 
 
   ) %>%
   knitr::kable()
