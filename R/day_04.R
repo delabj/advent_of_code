@@ -74,13 +74,13 @@
 #' @return a data.frame
 read_pasports <- function(path){
 
-  text <- readr::read_file("input/day_04.txt")
+  text <- readr::read_file(path)
 
   df <- data.frame(
     text = unlist(strsplit(text, "\r\n\r\n"))
   )
 
-  df$text <- gsub("\r\n", " ",bulk_text_df$text)
+  df$text <- gsub("\r\n", " ",df$text)
 
   return(df)
 
