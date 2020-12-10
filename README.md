@@ -21,6 +21,7 @@ using closer to base functions)
 | 2020-12-07 | Bags of holding                     |               2 | [link](https://github.com/delabj/advent_of_code/blob/master/R/day_07.R) |
 | 2020-12-08 | Handheld Help                       |               2 | [link](https://github.com/delabj/advent_of_code/blob/master/R/day_08.R) |
 | 2020-12-09 | Data Port Fun                       |               2 | [link](https://github.com/delabj/advent_of_code/blob/master/R/day_09.R) |
+| 2020-12-10 | Adaptive Adapters                   |               2 | [link](https://github.com/delabj/advent_of_code/blob/master/R/day_10.R) |
 
 If you want to talk about the code feel free to open an issue of tag me
 on [twitter](http://www.twitter.com/delabjl).
